@@ -1,7 +1,5 @@
-
-
-
-
+// https://autopagerize.jottit.com/how_to_write_siteinfo_%28ja%29
+// http://web.archive.org/web/20100227073223/http://tokyoenvious.xrea.jp/b/javascript/xpath_finder.html
 
 /*
      FILE ARCHIVED ON 16:18:36 四月 3, 2007 AND RETRIEVED FROM THE
